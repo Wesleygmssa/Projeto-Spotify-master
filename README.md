@@ -1,7 +1,4 @@
 
-<h3 align="center">
- EFIZ
-</h3>
 
 <blockquote align="center">“Sua única limitação é você mesmo”!</blockquote>
 
